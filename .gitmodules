@@ -1,0 +1,5 @@
+[submodule "submodule-path"]
+	url = submodule-url
+[submodule "uday"]
+	path = uday
+	url = https://github.com/udayk09/Test-io.git
